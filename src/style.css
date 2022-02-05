@@ -54,8 +54,8 @@ a:hover{
     color: #2cb67d;
 }
 
-a:activate{
-    color: #2cb67d;
+a:visited{
+    color: #72757e;
 }
 
 a:link {
