@@ -45,3 +45,19 @@ ul {
     list-style-type: square;
     padding-left: 1.4em;
 }
+
+li {
+    color: #fffffe;
+}
+
+a:hover{
+    color: #2cb67d;
+}
+
+a:activate{
+    color: #2cb67d;
+}
+
+a:link {
+    color: #fffffe;
+}
